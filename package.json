@@ -1,6 +1,6 @@
 {
   "name": "react-numpad",
-  "version": "6.0.0",
+  "version": "6.0.1",
   "description": "Numpad react component, as number input or time input",
   "homepage": "https://gpietro.github.io/react-numpad-demo/",
   "main": "dist/react-numpad.js",
